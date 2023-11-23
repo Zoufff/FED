@@ -125,6 +125,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   samen met je groepje opstellen
 
   | Bibi            | Tim         | Felix    | Soufiane       |
+  | ---            | ---                | ---          | ---              |
   | - Typografie opdracht lastig
   | - Misschien andere site doen (Guess)          | - Keuze lastig responsive of surfaceplane             | Web raar ingedeeld, hoe dat aanpakken?. HTML in orde?       | HTML in orde?    |
 
