@@ -41,11 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-Homepage   <img src="readme-images/homepage.jpg" width="375px" alt="omschrijving van de pagina">
+Homepage   <img src="readme-images/homepage.jpg" width="375px" alt="homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Resultatenpagina  
-  <img src="readme-images/resultatenpagina.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/resultatenpagina.jpg" width="375px" alt="resultatenpagina">
  
 </details>
 
@@ -55,9 +55,29 @@ Homepage   <img src="readme-images/homepage.jpg" width="375px" alt="omschrijving
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+Toegankelijk is van belang bij het ontwerpen van een website dat voor iedereen, met een beperking of niet, is bedoeld. 
+Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de toegankelijkheid voor alle gebruikers met behulp van een screen reader en beperkingen. 
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  bril met vlek:
+  - 80% van de scherm is niet te lezen. 
+  - inzoomen heeft een beetje nut om wat meer van de scherm te kunnen lezen.
+  - enkel het deel van de linker- en rechterkant van het scherm is nog te zien.
+  - De afstand tot het scherm bepaald op je het scherm beter ziet of niet.
+
+  bril met kleine gaatjes:
+  - scherm is nog prima te lezen.
+  - moeilijk het geheel in een keer te zien.
+  - moet aandachtig gaan zoeken om te navigeren.
+  - moet dichtbij het scherm kijken om het scherp te kunnen zien. 
+
+  screen reader:
+  - geen h1 op homepage.
+  - de kopjes worden goed voorgelezen
+  - de elementen in de navgiatie-balk wordt niet gezien als linkjes, maar als formulierregelaars. Dit geldt ook voor de social media icoontjes. 
+  - in de footer staan er ook linkjes, maar deze worden ook niet erkent als linkjes, maar als een kop. 
 
 </details>
 
@@ -69,7 +89,7 @@ Homepage   <img src="readme-images/homepage.jpg" width="375px" alt="omschrijving
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/ss-homepage.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -90,16 +110,26 @@ Homepage   <img src="readme-images/homepage.jpg" width="375px" alt="omschrijving
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+ 
+ Dit ging goed:
+ - HTML opstellen
+ - Begin maken aan css
+ - flexbox onder de knien krijgen
+ 
+ Dit was lastig:
+ - Functionerende hamburgermenu maken
+ - sections op verschillende pagina's aanspreken in css zonder gebruik te maken van classes.
+ 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Bibi            | Tim         | Felix    | Soufiane       |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | - Typografie opdracht lastig
+  | - Misschien andere site doen (Guess)          | - Keuze lastig responsive of surfaceplane             | Web raar ingedeeld, hoe dat aanpakken?. HTML in orde?       | HTML in orde?    |
 
 
   ### Verslag van meeting
