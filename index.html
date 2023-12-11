@@ -1,43 +1,83 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 
 <head>
 	<meta charset="UTF-8">
 	<meta name="author" content="Soufiane Ayaou">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Howdy FED2324</title>
+	<title>Prada FED2324</title>
 
-	<link href="style.css" rel="stylesheet">
+	<link href="style-algemeen.css" rel="stylesheet">
+	<link href="style-homepage.css" rel="stylesheet">
+
+
 	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;700&family=Poppins:wght@500&display=swap"
+		rel="stylesheet">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=IBM+Plex+Sans:wght@300;700&family=Poppins:wght@500&display=swap"
+		rel="stylesheet">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=IBM+Plex+Sans:wght@300;700&family=Poppins:wght@100;200;500&display=swap"
+		rel="stylesheet">
 </head>
 
 <body>
 
 	<header>
 
-		<section>
-			<img src="images/Prada-Logo.png" alt="prada homepage">
-		</section>
+		<div>
+			<a href="index.html"><img src="images/Prada-Logo.png" alt="prada homepage"></a>
+		</div>
+
 
 		<nav>
+			<button aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="1.8em"
+					height="1.8em" viewBox="0 0 50 50">
+					<path
+						d="M 9.15625 6.3125 L 6.3125 9.15625 L 22.15625 25 L 6.21875 40.96875 L 9.03125 43.78125 L 25 27.84375 L 40.9375 43.78125 L 43.78125 40.9375 L 27.84375 25 L 43.6875 9.15625 L 40.84375 6.3125 L 25 22.15625 Z">
+					</path>
+				</svg></button>
 			<ul>
-				<li><a href="#">WOMEN</a></li>
-				<li><a href="#">MEN</a></li>
-				<li><a href="#">BAGS</a></li>
-				<li><a href="#">GIFTS</a></li>
-
+				<li><a href="products.html">WOMEN</a></li>
+				<li><a href="products.html">MEN</a></li>
+				<li><a href="products.html">BAGS</a></li>
+				<li><a href="products.html">GIFTS</a></li>
+				<li><a href="products.html">HOME</a></li>
+				<li><a href="products.html">BEAUTY</a></li>
+				<li><img src="images/user_48pt_3x.png" alt="Login or Create account">Login or create account<a
+						href="products.html"></a></li>
 			</ul>
 		</nav>
 
-		<nav>
-			<img src="images/search_20pt_3x.png" alt="zoeken">
-			<img src="images/user_48pt_3x.png" alt="je account">
-			<img src="images/heart_48pt_3x.png" alt="je favorieten">
-			<img src="images/shopping-bag_48pt_3x.png" alt="je shopping bag">
-			<img src="images/menu-burger_36pt_3x.png" alt="hamburgermenu">
+		<ul>
+			<li><img src="images/search_20pt_3x.png" alt="search"><a href="products.html"></a></li>
+			<li><img src="images/user_48pt_3x.png" alt="Login or Create account"><a href="products.html"></a></li>
+			<li><img src="images/heart_48pt_3x.png" alt="favorites"></li>
+			<li><img src="images/shopping-bag_48pt_3x.png" alt="shopping bag"><a href="products.html"></a></li>
+			<li><button aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="1.8em"
+						height="1.8em" viewBox="0 0 50 50">
+						<path
+							d="M 0 7.5 L 0 12.5 L 50 12.5 L 50 7.5 Z M 0 22.5 L 0 27.5 L 50 27.5 L 50 22.5 Z M 0 37.5 L 0 42.5 L 50 42.5 L 50 37.5 Z"
+							></path>
+					</svg></button></li>
+		</ul>
 
-		</nav>
+
+
+
 
 	</header>
 
@@ -45,43 +85,49 @@
 
 		<section>
 			<!--https://www.w3schools.com/tags/att_video_autoplay.asp-->
-			<video controls autoplay loop muted src="video/Prada presents Prada Holiday 2023 Collection.mp4"></video>
-			<h2>HOLIDAY COLLECTION</h2>
-			<a href="">FOR HER</a>
-			<a href="">FOR HIM</a>
+			<video controls autoplay loop muted src="video/Prada-presents.mp4"></video>
+			<h1>HOLIDAY COLLECTION</h1>
+			<a href="products.html">FOR HER</a>
+			<a href="products.html">FOR HIM</a>
 		</section>
 
 		<section>
-			<a href=""></a><video controls autoplay loop muted src="video/video-holidaygfh.mp4"></video></a>
+			<img src="images/gfher.avif" alt="Photo of a Prada bag and heels being worn by a woman">
+
 			<h2>GIFTS FOR HER</h2>
-			<a href="">EXPLORE THE COLLECTION</a>
+			<a href="products.html">EXPLORE THE COLLECTION</a>
 		</section>
 
 		<section>
-			<a href=""></a><img src="images/holidaygfh.jpeg" alt="jongeman in pak met pradatasje aan zijn zij"></a>
+			<img src="images/gfh.avif" alt="A man sitting on the ground with a black Prada backpack next to him.">
+
 			<h2>GIFTS FOR HIM</h2>
-			<a href="">EXPLORE THE COLLECTION</a>
+			<a href="products.html">EXPLORE THE COLLECTION</a>
 		</section>
 
 		<article>
 			<section>
-				<a href=""></a><img src="images/bags-women.webp" alt=""></a>
 				<h2>Women's bags</h2>
+				<img src="images/bags-women.jpeg" alt="A standing woman with a Prada purse in her hands">
+				<a href="products.html">EXPLORE THE COLLECTION</a>
 			</section>
 
 			<section>
-				<a href=""></a><video controls autoplay loop muted src="video/bags-men.mp4"></video></a>
 				<h2>Men's bags</h2>
+				<img src="images/bagshim.webp" alt="A man with a Prada bag on his back">
+				<a href="products.html">EXPLORE THE COLLECTION</a>
 			</section>
 
 			<section>
-				<a href=""></a><img src="images/prada-beauty.jpg" alt=""></a>
 				<h2>Prada Beauty</h2>
+				<img src="images/prada-beauty.jpg" alt="A photo of a makeup set">
+				<a href="products.html">EXPLORE THE COLLECTION</a>
 			</section>
 
 			<section>
-				<a href=""></a><img src="images/prada-home.jpg" alt="twee mokken met zwarte en rode figuren"></a>
 				<h2>Home Collection</h2>
+				<img src="images/prada-home.jpg" alt="Two mugs with black and red patterns">
+				<a href="products.html">EXPLORE THE COLLECTION</a>
 			</section>
 		</article>
 
@@ -92,28 +138,26 @@
 
 
 		<section>
+
 			<h3>SUBSCRIBE TO OUR NEWSLETTER</h3>
+			<form>
+				<!--https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_register_form-->
+				<label for="email">Email:</label>
+				<input type="text" id="email" name="email" required>
+				<!--https://www.toptal.com/designers/htmlarrows/arrows/-->
+				<button type="submit">&#10141;</button>
+			</form>
 
-			<!--https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_register_form-->
-			<label for="email"><b>Email</b></label>
-			<input type="text" placeholder="Enter Email" name="email" id="email" required>
+			<div>
+				<img src="images/facebook-app-symbol_20837.png" alt="facebook">
+				<img src="images/twitter_1419660.png" alt="twitter">
+				<img src="images/instagram_3661391.png" alt="instagram">
+			</div>
 
-			<!--https://www.toptal.com/designers/htmlarrows/arrows/-->
-			<button type="submit" class="register">&#10141;</button>
-			<h4>I have read and understood Prada’s Privacy Policy and I agree to receive<br> newsletter and
-				other
-				marketing communication.</h4>
-
-			<img src="" alt="facebook">
-			<img src="" alt="twitter">
-			<img src="" alt="instagram">
-			<img src="" alt="youtoube">
-			<img src="" alt="spotify">
-			<img src="" alt="discort">
 		</section>
 
 
-		<section>
+		<ul>
 			<li>
 				<h3>DO YOU NEED HELP?</h3>
 				<a href="">Call us 00 800 800 77232
@@ -123,12 +167,7 @@
 				<a href="">FAQ</a>
 				<a href="">Sitemap</a>
 			</li>
-			<li>
-				<h3>EXCLUSIVE SERVICES</h3>
-				<a href="">Prada Services</a>
-				<a href="">Track your order</a>
-				<a href="">Returns</a>
-			</li>
+
 			<li>
 				<h3>COMPANY</h3>
 				<a href="">Fondazione Prada</a>
@@ -146,13 +185,14 @@
 				<a href="">Cookie Policy</a>
 				<a href="">Terms of sale</a>
 			</li>
-		</section>
+		</ul>
 
-			<h5>©PRADA 2007 - 2023</h5>
+
+		<h4>©PRADA 2007 - 2023</h4>
 
 
 	</footer>
-	<script defer src="scripts/script.js"></script>
+	<script defer src="script.js"></script>
 </body>
 
 </html>
