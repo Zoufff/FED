@@ -1,4 +1,5 @@
 // JavaScript Document
+
 console.log("hiiii");
 
 var menubutton = document.querySelector("header ul:nth-child(3) button");
@@ -15,7 +16,9 @@ menu.classList.add("toonMenu");
 /* SLUIT MENU */
 
 var menusluitbutton = document.querySelector("nav button");
+
 menusluitbutton.onclick = sluitMenu;
+
 function sluitMenu() {
   menu.classList.remove("toonMenu");
   console.log("menu is gesloten");
