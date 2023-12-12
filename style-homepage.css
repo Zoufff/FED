@@ -1,0 +1,121 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text-hover: rgb(0, 0, 0);
+	--color-text: rgb(255, 255, 255);
+}
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* hier begint de code van de main (homepage)*/
+/* hier begint de code van de main (homepage)*/
+/* hier begint de code van de main (homepage)*/
+/* hier begint de code van de main (homepage)*/
+/* hier begint de code van de main (homepage)*/
+
+
+h1{
+	font-size:1.3em;
+}
+
+main section {
+	position: relative;
+}
+
+main section video,
+main section img {
+	width: 100%;
+	height: 85vh;
+	object-fit: cover;
+	vertical-align: top;
+}
+
+
+main article img,
+main article video {
+	width: 100%;
+	height: 100vh;
+	object-fit: cover;
+	vertical-align: top;
+}
+
+
+
+/* tekst op de afbeeldingen/video's*/
+
+main section h2,h1 {
+    position: absolute;
+    top: 0;
+    left: 1em;
+    color: var(--color-text);
+    font-family: 'Poppins', sans-serif;
+}
+
+main section a {
+    position: absolute;
+    top: 4em;
+    left: 1.5em;
+    color: var(--color-text);
+    text-decoration: none;
+    border-bottom: 2px solid white;
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+}
+
+main section a:hover {
+	background-color: white;
+	border: 2px solid white;
+	color: var(--color-text-hover);
+	transition: 0.1s;
+}
+
+
+main section:first-of-type a:nth-of-type(2) {
+	/* code nodig omdat a anders automatisch op elkaar vallen.*/
+	position: absolute;
+	top: 4em;
+	left: 6.5em;
+	margin-left: 1em;
+}
+
+main img,
+main video {
+	margin-bottom: 1em;
+}
+
+
+
+@media screen and (min-width: 700px) {
+	main article {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1em;
+		
+	}
+
+	main article img {
+		margin-bottom: 0em;
+	}
+}
