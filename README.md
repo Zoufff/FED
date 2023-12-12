@@ -133,10 +133,15 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - logo is h1--> alt: homepage prada
+  - navigatie icoontjes kunnen nav worden--> kan ook toegevoegd worden bij de listitems.
+  - te veel sections--> zijn de sections echt nodig?
+  - op de resultatenpagina kun je de afbeedlingen (producten) als articles gebruiken. 
+  - navigatie mag simpeler. 
+  - productpagina is beter dan homepage--> homepage is onoverzichtelijk.
+  - je kunt de homepage verbeteren. 
+  - language aanpassen naar dezelfde language als de pagina.
+  - voeg eventueel een formulier toe voor hoger cijfer.
 
 </details>
 
@@ -166,10 +171,9 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - let op op order van h1, h2 enz.
+  - niet te veel sections gebruiken.
+  - mag meerdere css documenten aanmaken. 
 
 </details>
 
@@ -184,6 +188,10 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+
+  - screenreader leest nu alle linkes goed.
+  - headers leest het goed.
+  - alt tekst ben ik bij sommige afbeeldingen vergeten. 
 
 </details>
 
@@ -203,20 +211,28 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | soufiane      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | is mijn hamburgermenu goed?
+    moet ik alle knoppen interactief maken?          | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - named grids zijn handig
+  - focus state kun je vormgeven
+  - hamburgermenu mot van de lesopdracht komen
+  - zoekelementen en andere interactieve elementen hoeven niet werkend te zijn. 
+  - richt je met name op responsive
+  - maak je site aantrekkelijker met hovers. 
+  - het is leuk als je je richt op ook hele kleine schermen, maar dat hoeft niet. minimaal schermen van 320px breed. 
+  - de horizontal slidebar op de product pagina moet wat afstand doen van de tekst.
+  - inputype email is handig voor op telefoons, want dan heeft de toetstenboard email elementen. 
+  - form element moet je verbeteren. 
+  - je mag divs gebruiken om te stijlen als een groepering geen betekenis heeft. als er een andere tag is die de groepering beter beschrijft dan moet je dat element gebruiken. 
 
 </details>
 
@@ -230,20 +246,30 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/1.2.png" width="375px" alt="schermafbeelding homepage">
+  <img src="readme-images/1.3.png" width="375px" alt="schermafbeelding homepage">
+
+  Ik ben trots op wat ik in een korte tijd heb kunnen maken. Ik heb veek geleerd, met name met responsive werken en dingen positioneren. 
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/1.1.png" width="375px" alt="schermafbeelding hamburgermenu open">
+  ik heb geleerd hoe ik een hamburgermenu maak. Ik vond het op het begin erg lastig, met name het onderdeel met javascript, maar het is me toch wel gelukt!
 
+
+<img src="readme-images/grid.png" width="375px" alt="top">
+  Verder was met een grid werken voor mij nieuw. Deze functie heeft mij enorm veel geholpen bij het maken van de website. 
+
+  <img src="readme-images/navbar.png" width="375px" alt="top">
+  Een navbar maken vond ik altijd erg lastig en ik was er altijd erg lang mee bezig en begreep het niet helemaal. Nu ik de opdrachten die ik tijdens de lessen heb gemaakt, begrijp ik het en is het eigen echt makkelijk geworden.
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
-</details>
+Wat ik erg lastig vond aan het bouwen van mijn site is het werkeh met javascrip voor de hamburgermenu. Ik vind javascrip echt lastig vanwege de taal waarmee je moet werken (vind ik gewoon lastig te begrijpen. ik heb hulp gevraagd aan docenten, leerlingen en ik heb de lesopdracht van de hamburgermenu ook gemaakt. Dit heeft me toch wel geholpen bij het maken van de hamburgermenu. 
+
+  
 
 
 
@@ -258,8 +284,8 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Bij het maken van de form (email) --> https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_register_form en https://www.toptal.com/designers/htmlarrows/arrows/ 
+  2. Voor de video die automatisch afspeeld en bediend kan worden --> https://www.w3schools.com/tags/att_video_autoplay.asp 
+  
 
 </details>
