@@ -51,7 +51,7 @@ Homepage   <img src="readme-images/homepage.png" width="375px" alt="homepage">
 
 
 
-## Toegankelijkheidstest 1/2 (week 1)
+## Toegankelijkheidstest 1/2 (week 2)
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
@@ -83,7 +83,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
 
 
 
-## Breakdownschets (week 1)
+## Breakdownschets (week 2)
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
@@ -103,7 +103,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
 
 
 
-## Voortgang 1 (week 2)
+## Voortgang 1 (week 3)
 
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
