@@ -23,6 +23,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Je focus:
   Responsive (kies uit responsive óf surface plane)
+
  
 </details>
 
@@ -34,6 +35,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
+
+Ik herkans dit vak nu. Ik moet meer functionaliteiten toevoegen en werkend maken en mijn github op orde hebben (dit waren de zaken waarop ik het vak vorig jaar niet had gehaald)
 
   ### Je opdracht:
   https://www.prada.com/us/en.html
