@@ -198,7 +198,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
 
 
 
-## Voortgang 3 (week 4)
+## Voortgang 2 (week 4)
 
 <details>
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
@@ -231,7 +231,17 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   - de horizontal slidebar op de product pagina moet wat afstand doen van de tekst.
   - inputype email is handig voor op telefoons, want dan heeft de toetstenboard email elementen. 
   - form element moet je verbeteren. 
-  - je mag divs gebruiken om te stijlen als een groepering geen betekenis heeft. als er een andere tag is die de groepering beter beschrijft dan moet je dat element gebruiken. 
+  - je mag divs gebruiken om te stijlen als een groepering geen betekenis heeft. als er een andere tag is die de groepering beter beschrijft dan moet je dat element gebruiken.
+
+herkansing
+  - *****probeer lementen 1 op 1 na maken
+  - footer moet meer lijken op de originele
+  - mappen op github opschonen. oude documenten weghalen.
+  - animeren sluiten hamburger menu
+  - elementen in de hamburger van originele ook overnmen
+  - custom properties kleuren gebruiken in je kleuren.
+  - readme toevoegen.
+  - doe ook surface plain--> voor een hoger cijfer 
 
 </details>
 
