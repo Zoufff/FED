@@ -51,7 +51,7 @@ h4,
 h5,
 p,
 li,
-a {
+a, summary{
 	font-family: 'Poppins', sans-serif;
 }
 

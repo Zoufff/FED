@@ -23,7 +23,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Je focus:
   Responsive (kies uit responsive óf surface plane)
-
  
 </details>
 
@@ -35,8 +34,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
-
-Ik herkans dit vak nu. Ik moet meer functionaliteiten toevoegen en werkend maken en mijn github op orde hebben (dit waren de zaken waarop ik het vak vorig jaar niet had gehaald)
 
   ### Je opdracht:
   https://www.prada.com/us/en.html
@@ -54,7 +51,7 @@ Homepage   <img src="readme-images/homepage.png" width="375px" alt="homepage">
 
 
 
-## Toegankelijkheidstest 1/2 (week 2)
+## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
@@ -86,19 +83,16 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
 
 
 
-## Breakdownschets (week 2)
+## Breakdownschets (week 1)
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/ss-homepage.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -106,7 +100,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
 
 
 
-## Voortgang 1 (week 3)
+## Voortgang 1 (week 2)
 
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
@@ -195,6 +189,8 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   - screenreader leest nu alle linkes goed.
   - headers leest het goed.
   - alt tekst ben ik bij sommige afbeeldingen vergeten. 
+
+
 
 </details>
 

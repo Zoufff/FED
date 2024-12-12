@@ -1,0 +1,175 @@
+main>section:first-of-type {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+
+}
+
+main>section img:not(main section:last-of-type div article img) {
+    width: 47vw;
+}
+
+main>section button:not(ul button) {
+    width: 37vw;
+    appearance: none;
+    border: none;
+    outline: none;
+    background-color: black;
+    padding: 1em;
+    color: white;
+    margin: 1em 0 2em 0;
+}
+
+main>section button:hover {
+
+    background-color: rgb(85, 85, 85);
+
+}
+
+
+
+
+main section:first-of-type div {
+    overflow-y: auto;
+}
+
+main section:first-of-type section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main section:first-of-type section {
+    text-align: center;
+}
+
+main section:first-of-type section ul {
+    display: flex;
+    gap: 3em;
+    padding: 0%;
+}
+
+main section:first-of-type section ul button {
+    appearance: none;
+    border: none;
+    outline: none;
+    background-color: white;
+
+
+}
+
+main section:first-of-type section ul button:hover {
+    border-bottom: 2px solid black;
+}
+
+main section:first-of-type section ul button:focus {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+p,
+h4 {
+    font-weight: 300;
+    margin: 0 0 1em 0;
+}
+
+
+
+
+/*you may also like*/
+main section:last-of-type div {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 1em;
+    overflow: auto;
+}
+
+main section:last-of-type div img {
+    max-width: 25vw;
+    margin-top: 2em;
+}
+
+
+/*https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp*/
+::-webkit-scrollbar {
+    visibility: hidden;
+}
+
+
+main section:last-of-type div h2 {
+    margin: 2em 0 0 0;
+}
+
+
+
+details {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 37vw;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+
+@media screen and (max-width: 800px) {
+    main section:first-of-type {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    main section:first-of-type h2{
+        margin-top: 3em;
+    }
+
+    main>section:first-child>div {
+        width: 100%;
+        height: 70vh;
+        padding: 0em;
+    }
+
+    main>section img:not(main section:last-of-type div article img) {
+        width: 95vw;
+        height: auto;
+    }
+
+    main>section:nth-child(2) {
+        margin-top: 20em;
+    }
+
+    main section:last-of-type div img {
+        max-width: 60vw;
+        margin-top: 2em;
+    }
+
+    main>section button:not(ul button) {
+        width: 80vw;
+    }
+
+    main section:first-of-type section ul {
+        gap: 2em;
+    }
+
+    main section:last-of-type div h2 {
+        margin: 1em 0 0 0;
+    }
+
+    ::-webkit-scrollbar {
+        width: 100%;
+        height: 100%;
+        overflow: scroll;
+        scrollbar-color: transparent transparent;
+    }
+    details {
+        border: 1px solid rgb(0, 0, 0);
+        padding: 10px;
+        margin-bottom: 10px;
+        width: 80vw;
+    }
+    
+}
