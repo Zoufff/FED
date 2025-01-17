@@ -31,7 +31,7 @@
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage   
-<img src="readme-images/schermafbeelding-homepage.png" width="375px" alt="homepage">
+<img src="readme-images/breakdown-homepage.jpg" width="375px" alt="homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
 Itempagina 
