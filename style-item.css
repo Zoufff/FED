@@ -5,7 +5,30 @@ main>section:first-of-type {
 
 }
 
-main>section img:not(main section:last-of-type div article img) {
+/*sea beyond tekst en img*/
+main section:nth-of-type(2) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+main section:nth-of-type(2) img {
+    width: 47vw;
+
+}
+
+main section:nth-of-type(2) div {
+    display: flex;
+    justify-content: center;
+    text-align: left; /* Optioneel, behoud links uitlijnen */
+    flex-direction: column;  
+    margin: 4em;
+}
+/*..*/
+
+
+
+main div img{
     width: 47vw;
 }
 
@@ -71,11 +94,46 @@ main section:first-of-type section ul button:focus {
 
 p,
 h4 {
-    font-weight: 300;
+    font-weight: 400;
     margin: 0 0 1em 0;
 }
 
+main section p:nth-of-type(2){
+    font-size: 40px;
+}
 
+main section section img{
+    width: 8vw;  
+}
+
+
+/*select size, size guide*/
+main section section div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 37vw;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+main section section div select {
+    border: none;
+    font-size: 16px;
+    outline: none;
+    cursor: pointer;
+    flex-grow: 1; 
+}
+
+main section section div select:focus {
+    outline: none; 
+}
+main section section div  a {
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
 
 
 /*you may also like*/
@@ -90,8 +148,35 @@ main section:last-of-type div {
 main section:last-of-type div img {
     max-width: 25vw;
     margin-top: 2em;
+    
 }
 
+main section:last-of-type div h3 {
+    font-size: 1em;
+    
+}
+
+
+main>div:last-of-type {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   border-top: 2px solid rgb(208, 207, 207);;
+   margin-top: 2em;
+}
+
+main>div:last-of-type p {
+   margin-top: 2em;
+}
+main>div:last-of-type a {
+    text-decoration: none;
+    color: inherit; /* Neemt de kleur van de omringende tekst over */
+}
+
+main>div:last-of-type a:hover {
+    text-decoration: underline;
+}
 
 /*https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp*/
 ::-webkit-scrollbar {
@@ -105,7 +190,7 @@ main section:last-of-type div h2 {
 
 
 
-details {
+main details {
     border: 1px solid rgb(0, 0, 0);
     padding: 10px;
     margin-bottom: 10px;
@@ -118,13 +203,19 @@ ul {
 }
 
 
+
+
+
 @media screen and (max-width: 800px) {
+
+    
+
     main section:first-of-type {
         display: grid;
         grid-template-columns: 1fr;
     }
     main section:first-of-type h2{
-        margin-top: 3em;
+        margin-top: 1em;
     }
 
     main>section:first-child>div {
@@ -133,9 +224,14 @@ ul {
         padding: 0em;
     }
 
-    main>section img:not(main section:last-of-type div article img) {
+    main div img {
         width: 95vw;
         height: auto;
+    }
+
+    main section section img{
+        width: 30vw;  
+        margin-top: 1.5em;
     }
 
     main>section:nth-child(2) {
@@ -165,11 +261,64 @@ ul {
         overflow: scroll;
         scrollbar-color: transparent transparent;
     }
-    details {
+     main details {
         border: 1px solid rgb(0, 0, 0);
         padding: 10px;
         margin-bottom: 10px;
         width: 80vw;
     }
     
+    main section section div {
+        width: 80vw;
+    }
+
+
+    main section:nth-of-type(2) {
+        display: grid;
+        grid-template-columns: 1fr ;
+        margin-top: 29em;
+    
+    }
+    
+    main section:nth-of-type(2) img {
+        width: 95vw;
+    
+    }
+    
+    main section:nth-of-type(2) div {
+        
+        margin: 1em;
+    }
+
+
+
+    
+}
+
+@media screen and (min-width: 800px) and (max-width: 950px){
+
+    main section:nth-of-type(2) {
+        display: grid;
+        grid-template-columns: 1fr ;
+        margin-top: 0;
+    
+    }
+    main section:nth-of-type(2) img {
+        width: 97vw;
+    
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 950px){
+
+    main section:nth-of-type(2) {
+        display: grid;
+        grid-template-columns: 1fr ;
+        margin-top: 0;
+    
+    }
+    main section:nth-of-type(2) img {
+        width: 97vw;
+    
+    }
 }
