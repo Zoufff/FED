@@ -87,10 +87,10 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   Voordat ik begon met het namaken van de site in SVG, heb ik een breakdownschets gemaakt om het opzetten van mijn site voor mezelf gemakkelijker te maken.
 
   ### Breakdownschets de hele pagina: 
-  <img src="readme-images/" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-homepage.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### Breakdownschets dynamisch deel (bijv menu): 
-  <img src="readme-images/" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown-hamburgermenu.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
@@ -167,13 +167,16 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   Korte omschrijving met plaatjes
 
   <img src="readme-images/1.1.png" width="375px" alt="schermafbeelding hamburgermenu open">
+
   ik heb geleerd hoe ik een hamburgermenu maak. Ik vond het op het begin erg lastig, met name het onderdeel met javascript, maar het is me toch wel gelukt!
 
 
 <img src="readme-images/grid.png" width="375px" alt="top">
+\
   Verder was met een grid werken voor mij nieuw. Deze functie heeft mij enorm veel geholpen bij het maken van de website. 
 
   <img src="readme-images/navbar.png" width="375px" alt="top">
+  
   Een navbar maken vond ik altijd erg lastig en ik was er altijd erg lang mee bezig en begreep het niet helemaal. Nu ik de opdrachten die ik tijdens de lessen heb gemaakt, begrijp ik het en is het eigen echt makkelijk geworden.
 
   ### Dit was lastig/Is niet gelukt:
