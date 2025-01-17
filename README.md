@@ -73,8 +73,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   <img src="readme-images/" width="375px" alt="screenshot van checklist">
   <img src="readme-images/" width="375px" alt="screenshot van checklist">
   <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
+
 
 </details>
 
@@ -172,8 +171,9 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
 
 
 <img src="readme-images/grid.png" width="375px" alt="top">
-\
+
   Verder was met een grid werken voor mij nieuw. Deze functie heeft mij enorm veel geholpen bij het maken van de website. 
+
 
   <img src="readme-images/navbar.png" width="375px" alt="top">
   
