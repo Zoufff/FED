@@ -8,7 +8,16 @@
 }
 
 
-
+/* NOG TE DOEN!!!!!!!!!!!!
+- custom properties
+- hbm afmaken
+- homepage nieuwe afbeeldingen invoegen
+- newsitem werkend maken
+- itempagina product details en freeshipping afmaken
+- readme op orde 
+- code schoonmaken
+- code valideren
+*/
 
 
 
@@ -305,7 +314,14 @@ footer {
 	border: white solid 2px;
 	margin: 1em;
 	border-top: rgb(200, 200, 200) solid;
-	margin-top: 5em;
+	margin-top: 3em;
+}
+
+footer form p {
+	font-weight: 500;
+	font-size: 0.8em;
+	width: 30em;
+	margin-top: 1.5em;
 }
 
 footer section div {
@@ -314,7 +330,7 @@ footer section div {
 
 footer ul {
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
 	gap: 2em;
 	padding: 0%;
 }
@@ -378,10 +394,16 @@ footer input {
 	border-bottom: #111 solid 2px;
 	border-color: black;
 	border-radius: 0%;
-	width: 37vw;
+	width: 25vw;
 
 }
+.klein-scherm{
+    display: none;
+}
 
+footer details{
+	width: 90vw;
+}
 
 footer button {
 	border-style: none;
@@ -390,7 +412,10 @@ footer button {
 }
 
 
+
 @media screen and (max-width:1200px) {
+
+
 	footer {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
@@ -423,6 +448,8 @@ footer button {
 		gap: 2em;
 
 	}
+
+	
 }
 
 @media screen and (max-width:700px) {
@@ -444,7 +471,7 @@ footer button {
 	h5 {
 		font-family: 'Poppins', sans-serif;
 		font-weight: 500;
-		font-size: 1.1em;
+		font-size: 0.9em;
 		text-decoration: none;
 		color: rgb(106, 106, 106);
 	}
@@ -462,14 +489,11 @@ footer button {
 		display: grid;
 		grid-template-columns: 1fr;
 		gap: 2em;
-		justify-items: center;
+		justify-items: start;
+
 	}
 
-	footer {
-		text-align: center;
-		border-top: rgb(200, 200, 200) solid;
-		margin-top: 5em;
-	}
+	
 
 	footer section div {
 		display: flex;
@@ -478,5 +502,49 @@ footer button {
 		margin: 2em;
 	}
 
+	footer section form p {
+		width: 90vw;
+	}
+}
+
+@media screen and (max-width:800px){
+
+.groot-scherm{
+	display: none;
+}
+
+.klein-scherm{
+	display: block;
+}
+
+footer details h3{
+	margin: 0;
+}
+
+footer ul.klein-scherm p{
+	display: flex; /* Maak een flex-container */
+    flex-direction: column; /* Plaats items onder elkaar */
+    gap: 0.8em; /* Voeg ruimte tussen de links toe */
+	margin-top: 1em;
+}
+footer details{
+	flex-grow: 1;
+	border-bottom: 1px solid rgb(170, 170, 170);
+	padding: 10px;
+	margin-bottom: 10px;
+	
+}
+
+}
+
+@media screen and (min-width:500px) and (max-width:800px){
+	footer details{
+		width: 94vw;
+		flex-grow: 1;
+		border-bottom: 1px solid rgb(170, 170, 170);
+		padding: 10px;
+		margin-bottom: 10px;
+		
+	}
 
 }
