@@ -16,7 +16,6 @@
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
-	/* startje */
 	--color-text-hover: rgb(0, 0, 0);
 	--color-text: rgb(255, 255, 255);
 }
@@ -64,10 +63,7 @@ main article video {
 
 
 /* tekst op de afbeeldingen/video's*/
-
-
-main section h2,
-h1 {
+main section h1, h2:not(main>section:last-child h2){
 	position: absolute;
 	top: 0;
 	left: 1em;
@@ -75,7 +71,7 @@ h1 {
 	font-family: 'Poppins', sans-serif;
 }
 
-main section a {
+main section a:not(main>section:last-child a) {
 	position: absolute;
 	top: 4em;
 	left: 1.5em;
@@ -92,14 +88,14 @@ main section a:hover {
 	transition: 0.1s;
 }
 
-
-
 main img,
 main video {
 	margin-bottom: 1em;
 }
 
-
+main img[src="images/accessoires.jpg"]{
+	margin-top: 1em;
+}
 
 
 
@@ -131,6 +127,7 @@ main>section:last-child {
 	flex-direction: column;
 	text-align: left;
 	margin-top: 1.5em;
+	
 	
 }
 

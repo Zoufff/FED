@@ -241,7 +241,7 @@ nav ul li a:hover {
 	}
 }
 
-@media screen and (min-width:700px) {
+@media screen and (min-width:1265px) {
 	header button:last-child {
 		display: none;
 	}
@@ -330,7 +330,7 @@ footer section div {
 
 footer ul {
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
 	gap: 2em;
 	padding: 0%;
 }
