@@ -154,10 +154,10 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
+  <img src="readme-images/1.1.png" width="375px" alt="schermafbeelding homepage">
   <img src="readme-images/1.2.png" width="375px" alt="schermafbeelding homepage">
   <img src="readme-images/1.3.png" width="375px" alt="schermafbeelding homepage">
-  <img src="readme-images/1.2.png" width="375px" alt="schermafbeelding homepage">
-  <img src="readme-images/1.3.png" width="375px" alt="schermafbeelding homepage">
+  <img src="readme-images/1.4.png" width="375px" alt="schermafbeelding homepage">
 
   Ik ben blij met de uitkomst. Ik heb veel geleerd, met name met responsive werken en dingen positioneren. Ook ben ik veel beter geworden in het oplossen van problemen binnen mijn code. 
 
