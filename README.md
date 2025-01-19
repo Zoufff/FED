@@ -175,7 +175,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   Verder was met een grid werken voor mij nieuw. Deze functie heeft mij enorm veel geholpen bij het maken van de website. 
 
 
-  <img src="readme-images/navbar.png" width="600px" alt="top">
+  <img src="readme-images/navbar.png" width="900px" alt="top">
   
   Een navbar maken vond ik altijd erg lastig en ik was er altijd erg lang mee bezig en begreep het niet helemaal. Nu ik de opdrachten die ik tijdens de lessen heb gemaakt, begrijp ik het en is het eigen echt makkelijk geworden.
 
