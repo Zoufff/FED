@@ -35,7 +35,7 @@ Homepage
 
   #### Screenshot(s) van de tweede pagina (small screen):
 Itempagina 
-  <img src="readme-images/Scherm­afbeelding-itempagina.png" width="375px" alt="resultatenpagina">
+<img src="readme-images/Scherm­afbeelding-itempagina.png" width="375px" alt="resultatenpagina">
  
 </details>
 
@@ -89,7 +89,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   <img src="readme-images/breakdown-homepage.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### Breakdownschets dynamisch deel (bijv menu): 
-  <img src="readme-images/breakdown-hamburgermenu.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown-homepage.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
