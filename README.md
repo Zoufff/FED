@@ -165,7 +165,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/1.1.png" width="375px" alt="schermafbeelding hamburgermenu open">
+  <img src="readme-images/hamburger.png" width="375px" alt="schermafbeelding hamburgermenu open">
 
   ik heb geleerd hoe ik een hamburgermenu maak. Ik vond het op het begin erg lastig, met name het onderdeel met javascript, maar het is me toch wel gelukt!
 
