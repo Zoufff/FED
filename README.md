@@ -35,7 +35,7 @@ Homepage
 
   #### Screenshot(s) van de tweede pagina (small screen):
 Itempagina 
-  <img src="readme-images/Schermafbeelding-itempagina.png" width="375px" alt="resultatenpagina">
+  <img src="readme-images/Scherm­afbeelding-itempagina.png" width="375px" alt="resultatenpagina">
  
 </details>
 
