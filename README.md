@@ -31,11 +31,11 @@
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage   
-<img src="readme-images/schermafbeelding-homepage.png" width="375px" alt="homepage">
+<img src="readme-images/Scherm­afbeelding-homepage.png" width="375px" alt="homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
 Itempagina 
-  <img src="readme-images/schermafbeelding-itempagina.png" width="375px" alt="resultatenpagina">
+  <img src="readme-images/Scherm­afbeelding-itempagina.png" width="375px" alt="resultatenpagina">
  
 </details>
 
