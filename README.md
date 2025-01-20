@@ -31,13 +31,11 @@
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage   
-<img src="readme-images/Scherm­afbeelding-homepage.png" width="375px" alt="homepage">
+<img src="readme-images/schermafbeelding-homepage.png" width="375px" alt="homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  
 Itempagina 
-
-<img src="readme-images/Scherm­afbeelding-itempagina.png" width="375px" alt="resultatenpagina">
+  <img src="readme-images/schermafbeelding-itempagina.png" width="375px" alt="resultatenpagina">
  
 </details>
 
@@ -72,9 +70,11 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   - in de footer staan er ook linkjes, maar deze worden ook niet erkent als linkjes, maar als een kop. 
 
   ### Screenshots checklist
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck1.1.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck1.2.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck1.3.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck1.4.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck1.5.jpeg" width="375px" alt="screenshot van checklist">
 
 
 </details>
@@ -91,7 +91,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   <img src="readme-images/breakdown-homepage.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### Breakdownschets dynamisch deel (bijv menu): 
-  <img src="readme-images/brakedown-hamburgermenu.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown-hamburgermenu.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
@@ -109,11 +109,11 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   - alt tekst ben ik bij sommige afbeeldingen vergeten. 
 
   ### Screenshots checklist
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
-  <img src="readme-images/" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck2.1.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck2.2.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck2.3.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck2.4.jpeg" width="375px" alt="screenshot van checklist">
+  <img src="readme-images/sscheck2.5.jpeg" width="375px" alt="screenshot van checklist">
 
 </details>
 
@@ -156,10 +156,10 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/1.1.png" width="375px" alt="schermafbeelding homepage">
   <img src="readme-images/1.2.png" width="375px" alt="schermafbeelding homepage">
   <img src="readme-images/1.3.png" width="375px" alt="schermafbeelding homepage">
-  <img src="readme-images/1.4.png" width="375px" alt="schermafbeelding homepage">
+  <img src="readme-images/1.2.png" width="375px" alt="schermafbeelding homepage">
+  <img src="readme-images/1.3.png" width="375px" alt="schermafbeelding homepage">
 
   Ik ben blij met de uitkomst. Ik heb veel geleerd, met name met responsive werken en dingen positioneren. Ook ben ik veel beter geworden in het oplossen van problemen binnen mijn code. 
 
@@ -167,7 +167,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/hamburger.png" width="375px" alt="schermafbeelding hamburgermenu open">
+  <img src="readme-images/1.1.png" width="375px" alt="schermafbeelding hamburgermenu open">
 
   ik heb geleerd hoe ik een hamburgermenu maak. Ik vond het op het begin erg lastig, met name het onderdeel met javascript, maar het is me toch wel gelukt!
 
@@ -177,7 +177,7 @@ Met deze toegangkelijkheidstest bekijk ik hoe de Prada website voldoet aan de to
   Verder was met een grid werken voor mij nieuw. Deze functie heeft mij enorm veel geholpen bij het maken van de website. 
 
 
-  <img src="readme-images/navbar.png" width="900px" alt="top">
+  <img src="readme-images/navbar.png" width="375px" alt="top">
   
   Een navbar maken vond ik altijd erg lastig en ik was er altijd erg lang mee bezig en begreep het niet helemaal. Nu ik de opdrachten die ik tijdens de lessen heb gemaakt, begrijp ik het en is het eigen echt makkelijk geworden.
 
